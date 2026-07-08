@@ -10,16 +10,17 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
-        hset=set()
+        d1,d2=headA,headB
 
-        while headA:
-            hset.add(headA)
-            headA=headA.next
+        while d1!=d2:
+            if d1 is None:
+                d1=headB
+            else:
+                d1=d1.next
+            
+            if d2 is None:
+                d2=headA
+            else:
+                d2=d2.next
         
-        while headB:
-            if headB in hset:
-                return headB
-
-            headB=headB.next
-        
-        return None
+        return d1
