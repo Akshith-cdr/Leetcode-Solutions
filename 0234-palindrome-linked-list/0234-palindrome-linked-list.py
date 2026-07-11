@@ -9,20 +9,26 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        stack=[]
-        temp=head
+        slow=head
+        fast=head
+        prev=None
 
-        while temp:
-            stack.append(temp.val)
-            temp=temp.next
-        
-        temp=head
+        while fast and fast.next:
+            fast=fast.next.next
 
-        while temp:
-            if temp.val!=stack[-1]:
+            nxt=slow.next
+            slow.next=prev
+            prev=slow
+            slow=nxt
+
+        if fast:
+            slow=slow.next
+
+        while prev and slow:
+            if prev.val!=slow.val:
                 return False
-            
-            stack.pop()
-            temp=temp.next
-        
+
+            prev=prev.next
+            slow=slow.next
+
         return True
