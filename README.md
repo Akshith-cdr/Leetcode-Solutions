@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -40,9 +41,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
