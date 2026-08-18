@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -70,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
