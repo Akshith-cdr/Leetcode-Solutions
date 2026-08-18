@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1006-clumsy-factorial](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1006-clumsy-factorial](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
