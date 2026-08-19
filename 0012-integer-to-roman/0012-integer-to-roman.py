@@ -10,6 +10,6 @@ class Solution:
             
             count=num//val
             res.append(sym*count)
-            num-=count*val
+            num%=val
         
         return "".join(res)
