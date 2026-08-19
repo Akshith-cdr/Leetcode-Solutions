@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1006-clumsy-factorial](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
