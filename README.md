@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -97,4 +99,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
