@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1006-clumsy-factorial](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
