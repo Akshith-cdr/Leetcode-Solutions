@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Minimax
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
