@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [2437-number-of-valid-clock-times](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+## Enumeration
+|  |
+| ------- |
+| [2437-number-of-valid-clock-times](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
