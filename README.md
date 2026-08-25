@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0877-stone-game](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akshith-cdr/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
